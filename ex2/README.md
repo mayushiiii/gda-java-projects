@@ -1,6 +1,6 @@
 <h1>README</h1>
 
-This code uses the **Decorator** design pattern, as a means of creating an icecream with a certain flavor and topping. 
+This code uses the **Decorator** design pattern, as a means of creating an ice cream with a certain flavor and topping. 
 
 Design patterns used:
 
