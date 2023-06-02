@@ -1,6 +1,10 @@
 <h1>README</h1>
 
-This code uses the **Decorator** design pattern, as a means of creating an incecream with a certain flavor and topping. The IceCream interface represents the base component, and the ToppingDecorator class is the abstract decorator class. The concrete decorators, Chocolate and Vanilla, extend the ToppingDecorator class and add specific toppings to the ice cream.
+This code uses the **Decorator** design pattern, as a means of creating an icecream with a certain flavor and topping. 
+
+Design patterns used:
+
+* Decorator: The Decorator pattern is used to add toppings to a basic ice cream object. The IceCream interface represents the base component, and the ToppingDecorator class is the abstract decorator class. The concrete decorators, Chocolate and Vanilla, extend the ToppingDecorator class and add specific toppings to the ice cream.
 
 <h2>Ice Cream Classes</h2>
 
